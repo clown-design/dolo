@@ -1,0 +1,10 @@
+body{
+    background-image: url(DOL.JPG); 
+     background-size: cover ;
+     background-position: center;
+     background-repeat: no-repeat;
+     color: rgb(21, 5, 5);
+     height: 100vh;
+     
+     
+}

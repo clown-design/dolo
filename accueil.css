@@ -1,0 +1,5 @@
+table{
+    border-collapse: collapse; 
+    display: flex;
+        gap: 100px;
+   } 
